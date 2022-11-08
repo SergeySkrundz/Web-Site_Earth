@@ -1,1 +1,3 @@
-# Web-Site_Earth
+Web-Site_Earth
+
+Веб сайт с анимацией планеты земля.
